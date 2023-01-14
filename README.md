@@ -105,16 +105,17 @@ In combination with including minor league stats  this could also add an additio
 3. **Lets test our model with prediction based off the 2022 season and track it's successes and failures**
 
 ![secondbase](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Images/secondbase.PNG)
+
 Interesting here, our model predicts Willy Adames to record the highest WAR in MLB history. We can take this as another sign that the model could still use some tuning.
 
 ***
 
 ### Repository Navigation
 Reproduction or recreation of this model can be done following the workflow in the Final Notebook
-* See [the Final Notebook outlining step-by-step processes and their methodology in depth](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Final%20Notebook.ipynb)
+* See the [Final Notebook outlining step-by-step processes and their methodology in depth](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Final%20Notebook.ipynb)
 
 For consolidated project material look into the presentation powerpoint files.
-* See [the Powerpoint Presenation](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Presentation.pptx)
+* See the [Powerpoint Presenation](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Presentation.pptx)
 
 
 
