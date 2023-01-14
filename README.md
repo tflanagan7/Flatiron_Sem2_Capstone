@@ -94,16 +94,25 @@ Whether you're a Team Manager, a front office General Manager, or setting the be
 ***
 
 ### Conclusion - Next Steps
-1. Since we've identified that our model does poorly at predicting breakout performances, a solution could be that the model needs to find a way to incorporate their **Minor League stats**.
+1. Since we've identified that our model does poorly at predicting breakout performances, a solution could be that the model needs to find a way to **incorporate their Minor League stats**.
+
+This would be most likely the greatest impact we can make on chipping away at the seemingly irreducible error that to a degree comes from the game's unpredictable nature.
+
 2. Could we expand our model potentially to **track how a pattern of WAR over several seasons can predict Next_WAR**? Rather than predicting next season WAR off just the prior season's stats.
+
+In combination with including minor league stats  this could also add an additional layer, where one bad season where you were coming off an injury causes the model to underrate a players capabilities.
+
 3. **Lets test our model with prediction based off the 2022 season and track it's successes and failures**
 
 ![secondbase](/Images/secondbase.png)
 Interesting here, our model predicts Willy Adames to record the highest WAR in MLB history. We can take this as another sign that the model could still use some tuning.
 
+***
+
 ### Repository Navigation
 Reproduction or recreation of this model can be done following the workflow in the Final Notebook
 * See [the Final Notebook outlining step-by-step processes and their methodology in depth](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Final%20Notebook.ipynb)
+
 For consolidated project material look into the presentation powerpoint files.
 * See [the Powerpoint Presenation](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Capstone%202.pptx)
 
