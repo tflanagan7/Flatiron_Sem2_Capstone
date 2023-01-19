@@ -115,7 +115,7 @@ Reproduction or recreation of this model can be done following the workflow in t
 * See the [Final Notebook outlining step-by-step processes and their methodology in depth](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Final%20Notebook.ipynb)
 
 For consolidated project material look into the presentation powerpoint files.
-* See the [Powerpoint Presenation](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/main/Presentation.pptx)
+* See the [Powerpoint Presenation](https://github.com/tflanagan7/Flatiron_Sem2_Capstone/blob/523569a51512b7ca1522f569d4a5359f2d05fcdb/Presentation.pdf)
 
 
 
